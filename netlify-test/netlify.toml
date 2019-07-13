@@ -1,0 +1,4 @@
+[build]
+base = "netlify-test/"
+publish = "netlify-test/build/"
+command = "yarn build"
